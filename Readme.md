@@ -30,11 +30,9 @@
 
 ## 相关阅读
 
-
 * [关于React ES5和ES6用法的不同] (http://2914905399.iteye.com/blog/2317603)
 * [React 代码规范] (https://zhuanlan.zhihu.com/p/21458464)
 * [Immutable 详解及 React 中实践] (https://segmentfault.com/a/1190000003910357)
-
 * [谈谈 React.js 的核心入门知识] (http://gold.xitu.io/entry/55caa1db60b27cc249350218/view)
 	* [深入浅出React（二）：React开发神器Webpack] (http://www.infoq.com/cn/articles/react-and-webpack)
 	* [深入浅出React（三）：理解JSX和组件] (http://www.infoq.com/cn/articles/react-jsx-and-component)
